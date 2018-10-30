@@ -1,6 +1,8 @@
 # Machine-Learning-Exercises
 This repo contains the different machine learning tasks performed by me. I will keep adding more in this repo as I get time.
 
+<br>'data' folder contains the datasets used in these exercises (only if the data is small).
+
 "robust_DT_with_holdout_partition.ipynb" [Dataset: Spotify_Combined.csv]
 	Objective is to experiment with DecisionTrees and NaiveBayes and compute performance with repeated holdout partitioning to create robust probabilistic models.
 	Experiment with varying train-test split size [25%, 35%, 45%, 55%, 65%, 75%, 85%] and analyze the performance of models.
